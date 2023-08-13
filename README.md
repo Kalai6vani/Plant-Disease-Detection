@@ -11,4 +11,4 @@ Model: best_model.h5 (file size is huge for upload)
 
 A frontend version is also implemented to validate the predictions
 
-Youtube link: 
+Youtube link: https://youtu.be/b25osEJvC4I
