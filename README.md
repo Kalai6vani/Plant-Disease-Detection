@@ -2,7 +2,9 @@
 Using Tensorflow
 
 Dataset : https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+
 IDE: Google Colab
+
 Model: best_model.h5 (file size is huge for upload)
 
 A frontend version is also implemented to validate the predictions
